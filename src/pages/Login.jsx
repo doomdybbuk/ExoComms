@@ -12,6 +12,7 @@ const Login = () =>{
                     <button>Login</button>
                 </form>  
                 <p>You don't have an account ?<a href="Register">Register</a></p>
+                <p className="google">Use google authentication</p>
             </div>
         </div>
     )
